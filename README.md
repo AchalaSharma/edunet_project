@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a computer vision and machine learning pipeline for classifying mango leaf diseases. The project extracts handcrafted features (color, shape, texture, and edge) from leaf images and evaluates multiple machine learning models to identify the disease category accurately.
 
-**Author:** Achala Sharma Joshi
+**Author:** Achala Sharma 
 
 ## Dataset
 The dataset (`Resize mango leaf disease`) consists of images categorized into five distinct classes, with 600 images per class:
